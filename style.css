@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    font-family: 'Lora', serif;
+
+}
+section{
+    height: 550px;
+    padding-bottom: 100px;
+}
+.half-width{
+    width:35%;
+    float:left;
+    margin-left:10%;
+    padding-left:2%;
+
+}
+.text{
+    margin-top: 30px;
+    color:gray;
+}
+.half-width img{
+    width:100%;
+}
+#left-div{
+    margin-top:10%;
+
+}
+.line{
+    border-left:7px solid tomato;
+    line-height: 40px;
+    padding-left: 5px;
+}
+.line h1{
+    font-size: 50px;
+}
+.line span{
+     color:lightseagreen;
+}
+.anchor-button{
+    text-decoration: none;
+    background:tomato;
+    padding:10px 40px;
+    border-radius:5px;
+    color:white;
+    font-weight: 500;
+
+}
+.my-mission-area span{
+    color:lightseagreen;
+}
+.my-mission-area h1{
+    font-size:50px;
+    text-align: center;
+}
+.third-width{
+    width: 20%;
+    float:left;
+    margin:5%;
+    padding:1%;
+
+}
+.my-mission-area img{
+    width: 50%;
+}
+.my-mission-area div{
+    box-shadow: 0px 0px 1px;
+    height:50%;
+    border-radius: 10px;
+}
+#mission-box{
+    background-color: lightsalmon;
+}
+#Vission-box{
+    background-color: lightskyblue;
+}
+#goals-box{
+    background-color: lightpink;
+}
+
+.side-banner-left{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-size: 20%;
+}
+.side-banner-right{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-position:calc(1000px);
+    background-size:calc(200px);
+    background-size: 20%;
+
+}
+footer span{
+    text-align: center;
+    color:lightseagreen
+}
+footer h1{
+    text-align: center;
+    
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+.corona-app{
+    background-image: url("images/shapes/shape-6.png");
+    background-repeat: no-repeat;
+    background-position:calc(1000px);
+    background-size:calc(200px);
+    background-size: 20%;
+}
+.corona-app span{
+    color: lightseagreen;
+
+}
+.corona-app h1{
+    font-size:35px;
+}
+.corona-app img{
+    height: 500px;
+    width: 400px;
+}
